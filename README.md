@@ -1,0 +1,1 @@
+Had a coding question in an interview which i fucked up. They wanted to know how i can calculate the square number of an input without the math lib. I had no fucking idea, i mean, which environment doenst have the math lib. Anyway, i tried it know and it works, but it took some time to figure out which formular can give me the solution i want without the math lib. 
