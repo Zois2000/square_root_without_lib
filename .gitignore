@@ -1,0 +1,6 @@
+/build/
+/out/
+/.cache/
+*.exe
+*.o
+*.obj
